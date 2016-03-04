@@ -1,4 +1,5 @@
 # MealPlanner
+This meal Planner app will take all meals for the day and break them down into ingredients lists and shopping lists for the person who needs to plan all meals and not just dinner. 
 
 ## Development
 
